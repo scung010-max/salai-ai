@@ -1,0 +1,6 @@
+{
+  "name": "Omni AI Multimodal Studio",
+  "description": "Multiplatform AI studio for Image-to-Image, Image-to-Video, Video-to-Video, Text-to-Image, Text-to-Video, Universal Language Translation, and Visual AI Q&A with Flutter export for iOS, Android, and Web.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
